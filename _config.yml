@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Pepper-Box, a Kafka Load Generator
+tag_text: Pepper-Box
+description: Pepper-Box is kafka load generator plugin for jmeter. It allows to send kafka messages of type plain text(JSON, XML, CSV or any other custom format) as well as java serialized objects.
 
 # Build settings
 markdown: kramdown
