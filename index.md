@@ -1,7 +1,7 @@
 ---
 layout: pepperbox
 ---
-
+![Pepper-Box](pepperbox.png)
 [Pepper-Box](https://github.com/GSLabDev/pepper-box) is a kafka load generator plugin for jmeter. It allows to send kafka messages of type plain text(JSON, XML, CSV or any other custom format) as well as java serialized objects.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=GSLabDev&repo=pepper-box&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe><br/>
