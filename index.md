@@ -16,5 +16,5 @@ layout: pepperbox
 <hr class="featurette-divider">
 
 <footer style="background-color: #101931; color: #fff !important">
-Copyright © 2017 gslab / Pepper-Box. Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+Copyright © 2017 gslab / Pepper-Box. Licensed under  <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>
 </footer>
