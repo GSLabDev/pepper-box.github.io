@@ -33,18 +33,18 @@ layout: pepperbox
  <table id="t01" cellspacing="0" cellpadding="0">
   <tr>
     <td>Generates Millions of messages per socond on Kafka</td>
-    <td><img src="application-performance.jpg"></td>
+    <td><img src="application-performance.jpg" width="256" height="256"></td>
   </tr>
   <tr>
-    <td><img src="anyformat.png"></td>
+    <td><img src="anyformat.png" width="256" height="256"></td>
     <td>Generate data in any format including plaintext formats or java serialized format</td>
   </tr>
   <tr>
       <td>Supports security Integrations like SSL, Kerberos</td>
-      <td><img src="Icon_Security.jpg"></td>
+      <td><img src="Icon_Security.jpg" width="256" height="256"></td>
    </tr>
    <tr>
-       <td><img src="tune-performance.jpg"></td>
+       <td><img src="tune-performance.jpg" width="256" height="256"></td>
        <td>Provides UI interface to tune producer properties</td>
      </tr>
 </table> 
