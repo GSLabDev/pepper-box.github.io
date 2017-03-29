@@ -159,3 +159,67 @@ pre > code {
   text-align: center;
   font-size: 16px;
 }
+
+.topbar-menu>ul>li.menu-item-has-children .sub-menu,.lang-switcher .lang-dropdown,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 210px;
+  margin-top: 10px;
+  margin-left: -105px;
+  padding: 16px 0;
+  border-radius: 4px;
+  background-color: #fff;
+  text-align: left;
+  box-shadow: 0 0 24px 0 rgba(0,0,0,0.15);
+}
+
+.topbar-menu>ul>li.menu-item-has-children .sub-menu li,.lang-switcher .lang-dropdown li,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li {
+  margin: 0;
+  padding: 0;
+}
+
+.topbar-menu>ul>li.menu-item-has-children .sub-menu li::before,.lang-switcher .lang-dropdown li::before,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li::before,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li::before {
+  display: none;
+}
+
+.topbar-menu>ul>li.menu-item-has-children .sub-menu li>a,.lang-switcher .lang-dropdown li>a,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li>a,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li>a {
+  display: block;
+  padding: 3px 24px;
+  border-left: 2px solid transparent;
+  color: #706f6f;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.topbar-menu>ul>li.menu-item-has-children .sub-menu li>a>i,.lang-switcher .lang-dropdown li>a>i,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li>a>i,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li>a>i {
+  margin-top: -2px;
+  margin-right: 3px;
+  vertical-align: middle;
+}
+
+.topbar-menu>ul>li.menu-item-has-children .sub-menu li:hover>a,.lang-switcher .lang-dropdown li:hover>a,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li:hover>a,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li:hover>a,.topbar-menu>ul>li.menu-item-has-children .sub-menu li.current>a,.lang-switcher .lang-dropdown li.current>a,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li.current>a,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li.current>a,.topbar-menu>ul>li.menu-item-has-children .sub-menu li.current-menu-item>a,.lang-switcher .lang-dropdown li.current-menu-item>a,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li.current-menu-item>a,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li.current-menu-item>a,.topbar-menu>ul>li.menu-item-has-children .sub-menu li.current_page_item>a,.lang-switcher .lang-dropdown li.current_page_item>a,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li.current_page_item>a,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li.current_page_item>a,.topbar-menu>ul>li.menu-item-has-children .sub-menu li.current-menu-ancestor>a,.lang-switcher .lang-dropdown li.current-menu-ancestor>a,.navbar .main-navigation>.menu>li.menu-item-has-children .sub-menu li.current-menu-ancestor>a,.navbar .main-navigation>.menu>li.has-mega-menu .mega-menu li.current-menu-ancestor>a {
+  padding-left: 29px;
+  border-left-color: #086ad5;
+  color: #086ad5;
+}
+
+.cart-dropdown::before,.topbar-menu>ul>li.menu-item-has-children>a::before,.lang-switcher::before,.navbar .main-navigation>.menu>li.menu-item-has-children::before,.navbar .main-navigation>.menu>li.has-mega-menu>a::before,.navbar-justified .main-navigation>.menu>li.menu-item-has-children::before,.navbar-justified .main-navigation>.menu>li.has-mega-menu>a::before {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -6px;
+  margin-left: -8px;
+  border: solid transparent;
+  border-width: 8px;
+  border-bottom-color: #fff;
+  content: '';
+  z-index: 10;
+  pointer-events: none;
+}
