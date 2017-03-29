@@ -5,9 +5,7 @@ html {
 }
 
 @media (min-width: 30rem) {
-  html {
-    font-size: 20px;
-  }
+
 }
 
 body {
@@ -149,6 +147,7 @@ pre > code {
   max-width: 30rem;
   margin: 0 auto;
   padding: 0 1rem;
+  font-size: 20px;
 }
 .footer {
   position: absolute;
