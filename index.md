@@ -33,7 +33,7 @@ layout: pepperbox
  <table id="t01" cellspacing="0" cellpadding="0">
   <tr>
     <td>Generates Millions of messages per socond on Kafka</td>
-    <td><img src="bar-chart-1.png" width="256" height="256"></td>
+    <td><img src="application-performance.png" width="256" height="256"></td>
   </tr>
   <tr>
     <td><img src="anyformat.png" width="256" height="256"></td>
