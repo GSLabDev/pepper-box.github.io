@@ -1,3 +1,6 @@
+---
+layout: pepperbox
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
