@@ -1,7 +1,7 @@
 ---
 layout: pepperbox
 ---
-<nav class="main-navigation"><ul id="menu-gslabs-menu-primary-1" class="menu">
+<nav class="main-navigation">
 <ul id="menu-gslabs-menu-primary-1" class="menu">
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-365 current_page_item menu-item-392">
         <a href="#">Pepper-Box</a>
