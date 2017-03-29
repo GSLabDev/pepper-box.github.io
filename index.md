@@ -28,7 +28,7 @@ layout: pepperbox
  <table id="t01" cellspacing="0" cellpadding="0">
   <tr>
     <td>Generates Millions of messages per socond on Kafka</td>
-    <td><img src="application-performance.jpg"></></td>
+    <td><img src="application-performance.jpg"></td>
   </tr>
   <tr>
     <td><img src="anyformat.png"></td>
