@@ -25,6 +25,24 @@ layout: pepperbox
 <div class="container">
 <img src="pepperbox.png" width="485" height="130">
 <br><br>
+ <table id="t01" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>Generates Millions of messages per socond on Kafka</td>
+    <td><img src="application-performance.jpg"></></td>
+  </tr>
+  <tr>
+    <td><img src="anyformat.png"></td>
+    <td>Generate data in any format including plaintext formats or java serialized format</td>
+  </tr>
+  <tr>
+      <td>Supports security Integrations like SSL, Kerberos</td>
+      <td><img src="Icon_Security.jpg"></td>
+   </tr>
+   <tr>
+       <td><img src="tune-performance.jpg"></td>
+       <td>Provides UI interface to tune producer properties</td>
+     </tr>
+</table> 
 <div>
     <a href="https://github.com/GSLabDev/pepper-box">Pepper-Box</a> 
     <span>is a Kafka load generator plugin for JMeter. It allows to send kafka messages of type plain text(JSON, XML, CSV or any other custom format) as well as java serialized objects.</span>
