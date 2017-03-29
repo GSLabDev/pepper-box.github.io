@@ -167,9 +167,9 @@ ul {
     overflow: hidden;
     background-color: #eaeaea;
      height:inherit;
-     box-shadow: 0 4px 4px -2px #232323;
-     -moz-box-shadow: 0 4px 4px -2px #232323;
-     -webkit-box-shadow: 0 4px 4px -2px #232323;
+     box-shadow: 0 6px 4px -2px #aaa;
+     -moz-box-shadow: 0 6px 4px -2px #aaa;
+     -webkit-box-shadow: 0 6px 4px -2px #aaa;
 }
 
 li {
@@ -183,7 +183,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
 }
 
@@ -191,7 +191,7 @@ li a:hover {
     color: #086ad5;
     height:inherit;
     text-decoration: none;
-    background-color: #f1f1f1;
+    background-color: #fafafa;
 }
 
 .main-navigation{
