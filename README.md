@@ -1,5 +1,5 @@
-# Solo 
+# Pepper-Box 
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+[Pepper-Box](https://github.com/GSLabDev/pepper-box) <span>is a Kafka load generator plugin for JMeter. It allows to send kafka messages of type plain text(JSON, XML, CSV or any other custom format) as well as java serialized objects.</span>
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+### [Demo & Documentation](https://github.com/GSLabDev/pepper-box)
