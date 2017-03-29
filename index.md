@@ -13,8 +13,6 @@ layout: pepperbox
 <iframe src="https://ghbtns.com/github-btn.html?user=GSLabDev&repo=pepper-box&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe><br/>
 </div>
 
-<hr class="featurette-divider">
-
-<footer style="background-color: #101931; color: #fff !important">
-Copyright © 2017 gslab / Pepper-Box. Licensed under  <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>
+<footer class="footer" style="background-color: #101931; color: #fff !important">
+Copyright © 2017 gslab / Pepper-Box. Licensed under  <a href="http://www.apache.org/licenses/LICENSE-2.0"><font color="#fff">Apache License 2.0</font></a>
 </footer>
