@@ -16,7 +16,7 @@ layout: pepperbox
         <a href="https://github.com/GSLabDev/pepper-box/issues">Issues</a>
     </li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-252">
-        <a href="#">Download Stable Release</a>
+        <a href="https://github.com/GSLabDev/pepper-box/releases">Download</a>
     </li>
     </ul>
 </nav>
