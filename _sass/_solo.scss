@@ -165,8 +165,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #fff;
+    background-color: #eee;
      height:inherit;
+     box-shadow: 0 4px 4px -2px #232323;
+     -moz-box-shadow: 0 4px 4px -2px #232323;
+     -webkit-box-shadow: 0 4px 4px -2px #232323;
 }
 
 li {
@@ -188,7 +191,7 @@ li a:hover {
     color: #086ad5;
     height:inherit;
     text-decoration: none;
-
+    background-color: #fff;
 }
 
 .main-navigation{
