@@ -25,6 +25,11 @@ layout: pepperbox
 <div class="container">
 <img src="pepperbox.png" width="485" height="130">
 <br><br>
+<div>
+    <a href="https://github.com/GSLabDev/pepper-box">Pepper-Box</a> 
+    <span>is a Kafka load generator plugin for JMeter. It allows to send kafka messages of type plain text(JSON, XML, CSV or any other custom format) as well as java serialized objects.</span>
+</div>
+<br>
  <table id="t01" cellspacing="0" cellpadding="0">
   <tr>
     <td>Generates Millions of messages per socond on Kafka</td>
@@ -43,11 +48,6 @@ layout: pepperbox
        <td>Provides UI interface to tune producer properties</td>
      </tr>
 </table> 
-<div>
-    <a href="https://github.com/GSLabDev/pepper-box">Pepper-Box</a> 
-    <span>is a Kafka load generator plugin for JMeter. It allows to send kafka messages of type plain text(JSON, XML, CSV or any other custom format) as well as java serialized objects.</span>
-</div>
-<br>
 <!--<iframe src="https://ghbtns.com/github-btn.html?user=GSLabDev&repo=pepper-box&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe><br/>-->
 </div>
 
