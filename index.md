@@ -53,7 +53,7 @@ layout: pepperbox
                 <li><a href="https://github.com/GSLabDev/pepper-box/wiki">Docs</a></li>
                 <li><a href="https://github.com/GSLabDev/pepper-box/issues">Issues</a></li>
                 <li >
-                  <a href="https://github.com/GSLabDev/pepper-box/releases" >Download</a>
+                  <a href="https://github.com/GSLabDev/pepper-box/archive/v1.0.tar.gz" >Download Release v1.0</a>
                 </li>
               </ul>
             </div>
