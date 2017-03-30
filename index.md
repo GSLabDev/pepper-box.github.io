@@ -101,7 +101,7 @@ layout: pepperbox
           <p class="lead">Pepper-Box includes template engine for plain text messsages which helps to design schema in any format including JSON, XML, HTML, CSV and many more. Pepper-Box also allows to send java serialized object messages to kafka.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="images/anyformat.png" width="256" height="256">
+          <img class="featurette-image img-responsive center-block" src="images/anyformat.png" height="256" style="height: 240px;">
         </div>
       </div>
 
@@ -113,7 +113,7 @@ layout: pepperbox
           <p class="lead">If Kafka broker is designed with data encryption using SSL/TLS and authentication using Kerberos then these securities can be easily configured using simple user interface of Pepper-Box.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="images/Icon_Security.png" width="256" height="256">
+          <img class="featurette-image img-responsive center-block" src="images/lock.png" width="256" height="256">
         </div>
       </div>
 
