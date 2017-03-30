@@ -65,7 +65,7 @@ layout: pepperbox
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <center><img src="images/pepperbox.png" height="130" style="height: 100px; padding-bottom: 30px;"></center>
+            <center><img class="featurette-image img-responsive center-block" src="images/pepperbox.png" height="130" style="height: 100px; padding-bottom: 30px;"></center>
         </div>
       </div>
        
@@ -113,7 +113,7 @@ layout: pepperbox
           <p class="lead">If Kafka broker is designed with data encryption using SSL/TLS and authentication using Kerberos then these securities can be easily configured using simple user interface of Pepper-Box.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="images/lock.png" width="256" height="256">
+          <img class="featurette-image img-responsive center-block" src="images/Icon_Security.png" width="256" height="256">
         </div>
       </div>
 
