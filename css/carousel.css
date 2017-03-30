@@ -110,7 +110,6 @@ body {
 
 
 .nav-pepper{
-   height:60px !important;
    background-color: #eaeaea !important;
    box-shadow: 0 6px 4px -2px #aaa !important;
    -moz-box-shadow: 0 6px 4px -2px #aaa !important;
@@ -165,10 +164,6 @@ li a:hover {
     text-decoration: none;
     background-color: #fafafa !important;
 }
-.nav{
-  height: 60px;
-}
-
 .container ul li{
   height: inherit !important;
 }
