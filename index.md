@@ -65,7 +65,7 @@ layout: pepperbox
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <center><img src="images/pepperbox.png" width="485" height="130"></center>
+            <center><img src="images/pepperbox.png" height="130" style="height: 100px; padding-bottom: 30px;"></center>
         </div>
       </div>
        
