@@ -133,7 +133,7 @@ layout: pepperbox
 
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>Copyright © 2017 gslab / Pepper-Box. Licensed under  <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></p>
+        <p><a href="https://www.gslab.com/">gslab</a>|<a href="http://open.gslab.com/">Open Source @ GS Lab</a>|</p><p>Copyright © 2017 gslab / Pepper-Box. Licensed under  <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></p>
       </footer>
 
     </div>
