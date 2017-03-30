@@ -86,7 +86,7 @@ layout: pepperbox
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Pepper-Box at scale. <span class="text-muted">Generates a million messages per second.</span></h2>
-          <p class="lead">Pepper-Box designed to generate high load on Kafka. It is JMeter plugin hence we can use all features of jmeter and control kafka load. We can also it as console utility without jmeter.</p>
+          <p class="lead">Pepper-Box is designed to generate high load on Kafka. It is a JMeter plugin; hence we can use all the features of jmeter and control kafka load. We can also use it as console utility without jmeter.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="images/application-performance.png" width="256" height="256">
